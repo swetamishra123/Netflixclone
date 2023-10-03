@@ -36,7 +36,7 @@ You can check out the live demo [here](https://netflixclone-neon.vercel.app/).
 
 ## Contributing
 
-Contributions are welcome! .
+Contributions are welcome!.
 
 ## License
 
