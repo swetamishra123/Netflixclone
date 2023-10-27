@@ -6,7 +6,6 @@ A Netflix clone web page built using HTML, CSS, and JavaScript.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
